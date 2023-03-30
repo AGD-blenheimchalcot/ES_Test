@@ -3,7 +3,7 @@ import openai, os
 from dotenv import load_dotenv
 
 load_dotenv()
-from ES_code.spacy_pos import *
+from ES_Test.spacy_pos import *
 import pandas as pd
 import re
 
