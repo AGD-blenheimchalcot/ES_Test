@@ -1,0 +1,8 @@
+openai
+spacy
+spacy[en_core_web_lg]
+streamlit
+watchdog
+pandas
+scipy
+python-dotenv
